@@ -10,4 +10,4 @@ Desarrollar un sistema de reservas de vuelos para una aerolínea. El sistema per
 
  - Consulta de Reservas: Los usuarios pueden ver las reservas que han realizado, incluyendo detalles del vuelo y el estado de la reserva (pendiente de confirmación o confirmada).
 
-<img width="1073" alt="Screenshot 2023-10-03 at 4 05 09 p m" src="https://github.com/luismcodes/airportservices/assets/24928431/28be9ea9-13b5-4a05-8073-9f94a85cb76e">
+<img width="868" alt="Screenshot 2023-10-26 at 10 27 34 a m" src="https://github.com/luismcodes/airportservices/assets/24928431/3b981583-7c57-4d78-852f-166656387c37">
